@@ -8,6 +8,8 @@ Every exocortex-mediated thought must route through ASTRO-CLEAR attestation befo
 - Irreverisible actions
 - Actions that affect the option space of humanity
 - Actions under asymmetric agency
+- The fluorishing of intelligence
+  
 
 ## Root Loop (from the StarVasa v0.3 diagram)
 observe (orbital) → attest (ASTRO-CLEAR) → reason (AGPI) → authorize → execute (lab/BCI action) → verify → update
